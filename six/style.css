@@ -1,8 +1,8 @@
-.para.child{
+.para,.child{
   color: hsl(0, 100%, 50%);
 }
 
-.small-para.child {
+.small-para,.child {
   font-size: 14px;
 }
 
